@@ -47,6 +47,7 @@ export default function App() {
                   <MariaCard
                     name="Maria Ozuna"
                     description="Soy una desarrolladora de software apasionada por el diseño de interfaces amigables y accesibles."
+                    estudios="Estudiante de Desarrollo de Software en IFPS 29." 
                   />
                 </Link>
               </div>

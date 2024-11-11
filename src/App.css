@@ -16,6 +16,13 @@ main {
   background-color:#fdf1f1;
 
 }
+.bg-image-maria {
+  background-image: url('/img/3444499.jpg');
+  background-size: 100%;
+  background-position: center;
+  padding: 1rem;
+}
+
 .amiko-regular {
   font-family: "Amiko", sans-serif;
   font-weight: 400;
@@ -34,17 +41,19 @@ main {
   font-style: normal;
 }
 .inter-regular {
+  color: black;
   font-family: "Inter", serif;
   font-optical-sizing: auto;
   font-weight: 400;
   font-style: normal;
 }
-
 .style-script-regular {
 font-family: "Style Script", cursive;
+font-size: 2.5rem;
 font-weight: 400;
 font-style: normal;
 }
+
 .libre-baskerville-regular {
   font-family: "Libre Baskerville", serif;
   font-weight: 400;
